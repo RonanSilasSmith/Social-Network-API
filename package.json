@@ -1,0 +1,25 @@
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonanSilasSmith/Social-Network-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RonanSilasSmith/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/RonanSilasSmith/Social-Network-API#readme",
+  "description": ""
+}
