@@ -32,7 +32,7 @@ const ThoughtSchema = new Schema(
     }
 )
 
-UserSchema.virtual('reactionLength').get(function () {
+ThoughtSchema.virtual('reactionLength').get(function () {
     return this.reactions.length
 })
 
